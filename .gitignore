@@ -1,0 +1,13 @@
+# 本地配置（含密钥、权限记录）
+.claude/settings.local.json
+
+# token 缓存
+tokens.json
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+Thumbs.db
+.DS_Store

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "skills": {
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "9e1c8b3103f92fa8092568a44fe64858de7c5c9dc65ce4bea8f168080e889cfd"
+    },
+    "viral-topic-creator": {
+      "source": "D:\\ccc\\Claude Code 的使用",
+      "sourceType": "local",
+      "computedHash": "b4d8fb641a22e5a789f183e00a4394604450ea84a6a3b1d009c5c593f59b59bb"
+    }
+  }
+}
